@@ -1,0 +1,14 @@
+{
+  "project": "claude-bernard-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "8gpSpsWhibBktEV1aKGD4YynmZjJPcbTigu4JiiWD17f",
+  "vault_account": "EqxPKBxgLUyJiuqotuv5aJZ8xaXBpQWdPFdbd9TUrCrw",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "64xFTxUiFLaDrM6NE7n48wirhgXqXZDLYr22WWQz89iwckt9K4yE9uDErEWYwEa6TYgB5PvF4RMYJWqMWDcz1dA2",
+  "account_tx": "4MJZVjTr1wE1uUhpy1ycUAVAa157SeZH5aR3rEWjUJczQ4kXM5VNKhpQm4AHSJXjRhbC4obhf5CK1D5zZskqjx77",
+  "mint_tx": "4A6XuvRSgG8vTTiBFY2Tm43Yhzc2PbUkFRggEVuJ4K6Hhb3gucqTSKBPSJLp5K7U3C2tN4CTUWbMCuUcqv1giXb5",
+  "solana_explorer_mint": "https://explorer.solana.com/address/8gpSpsWhibBktEV1aKGD4YynmZjJPcbTigu4JiiWD17f?cluster=devnet",
+  "timestamp": "2026-10-26 16:26:44 UTC"
+}
